@@ -16,7 +16,6 @@ git clone https://github.com/ColeBallard/tournament-tracker
 2. Install the latest version of python.
 [Downloads](https://www.python.org/downloads/)
 
-
 3. Run the python file.
 ```shell
 C:/Users/YourName/tournament-tracker/main.py
