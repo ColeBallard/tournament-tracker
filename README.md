@@ -1,12 +1,28 @@
 # tournament-tracker
 
-## Instructions
-The application user is the tournament administrator.
+## Description
 
-- Since tournaments may have a variable amount of participants, gather that up front.
-- The administrator can add participants to a particular starting slot.
-- In order to cancel a participant, the administrator needs to enter both the starting slot and participant name.
-- The administrator can list participants in the order of their starting slots.
-- The registrations should be stored in a CSV.
+Let's user access the **Esports Tournament Participant Interface (ETPI)**.
+
+In the interface, one can create a tournament with a predetermined number of slots, fill those slots with players, remove players from slots, view slots in ranges of 10, and export the data into a csv file.
+
+## Usage
+
+1. Clone the respository.
+```shell
+git clone https://github.com/ColeBallard/tournament-tracker
+```
+
+2. Install the latest version of python.
+[Downloads](https://www.python.org/downloads/)
+
+
+3. Run the python file.
+```shell
+C:/Users/YourName/tournament-tracker/main.py
+```
+
+## Contribution
+If you have an idea or want to report a bug, please create an issue.
 
 ## **[Contact](https://coleb.io/contact)**
