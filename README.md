@@ -1,4 +1,4 @@
-# tournament-tracker
+# Tournament Tracker
 
 ## Description
 
@@ -9,14 +9,15 @@ In the interface, one can create a tournament with a predetermined number of slo
 ## Usage
 
 1. Clone the respository.
+
 ```shell
 git clone https://github.com/ColeBallard/tournament-tracker
 ```
 
-2. Install the latest version of python.
-[Downloads](https://www.python.org/downloads/)
+2. Install the latest version of python. [Downloads.](https://www.python.org/downloads/)
 
 3. Run the python file.
+
 ```shell
 C:/Users/YourName/tournament-tracker/main.py
 ```
